@@ -2,7 +2,7 @@
 
 # **My Portfolio**
 
-## Chapter of Contents 
+## Table of Contents 
 * [Introduction] (#Introduction) 
 * [Technologies] (#Technologies)
 * [Project status] (#Project status)
@@ -22,8 +22,8 @@ Project editor is:
 My portfolio is not a finished product yet. I plan to make more projects and to link all of them to my website. 
 
 ## Contact
-* [Linkedn:] (#https://www.linkedin.com/in/advika-shali/)
-* [Twitter:] (#https://twitter.com/advika_shali)
+* [Linkedn:] (https://www.linkedin.com/in/advika-shali/)
+* [Twitter:] (https://twitter.com/advika_shali)
 
 
 
