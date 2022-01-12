@@ -99,8 +99,19 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
-	}
+
+
+		background: rgb(238,174,202);
+	background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+    -webkit-animation: AnimationName 29s ease infinite;
+    -moz-animation: AnimationName 29s ease infinite;
+    animation: AnimationName 29s ease infinite;
+}
+
+
+		/* background: #ffffff; */
+
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
@@ -3206,6 +3217,8 @@ input, select, textarea {
 				font-size: 0.8em;
 				color: rgba(88, 88, 88, 0.5);
 			}
+
+
 
 				#footer > .inner .copyright a {
 					color: inherit;
